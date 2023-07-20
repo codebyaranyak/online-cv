@@ -8,19 +8,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Dr Aranyak Goswami
+    tagline: Computational Biologist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: aranyak111@gmail.com, ag111@stanford.edu
+    phone: +1-203-919-4047
     timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    citizenship:  India 
+    website: scholar.google.co.in/citations?user=j3y004gAAAAJ&hl=en #do not add http://
+    linkedin: https://www.linkedin.com/in/aranyak-goswami-62b9648/?originalSubdomain=in
     xing: alandoe
-    github: sharu725
+    github: codebyaranyak
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
